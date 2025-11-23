@@ -1,0 +1,2 @@
+1) Change working directory to this folder
+2) run main.m
